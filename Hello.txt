@@ -1,2 +1,4 @@
 print('Hello world');111
 print('How are you?');111
+print('nya');111
+print('bye');111
